@@ -20,13 +20,13 @@ The project focuses on implementing **robust exception handling** techniques suc
 ## ✨ Features
 
 - Create a new bank account
-- 
+  
 - Deposit money (with error handling for invalid amounts)
-- 
+  
 - Withdraw money (with insufficient funds check)
-- 
+  
 - View account balance and account details
-- 
+  
 - Proper input validation and safe scanner closure
   
 
